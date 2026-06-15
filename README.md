@@ -16,7 +16,7 @@
 ---
 ## 📈 Contribution Graph
 
-[![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhaysharma5983&theme=tokyo-night)](https://github.com/abhaysharma5983)
+[![Abhay Sharma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhaysharma5983&theme=tokyo-night)](https://github.com/abhaysharma5983)
 
 [![](https://komarev.com/ghpvc/?username=abhaysharma5983-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
 
