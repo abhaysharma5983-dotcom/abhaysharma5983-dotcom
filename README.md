@@ -14,6 +14,14 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhaysharma5983-dotcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+## 🌐 Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhaysharma5983&theme=tokyonight" />
+</p>
+
+
 ## 📈 Contribution Graph
 
 [![Abhay Sharma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhaysharma5983-dotcom&theme=tokyo-night)](https://github.com/abhaysharma5983-dotcom)
